@@ -1,4 +1,4 @@
-## Hey! I'm Pedro!
+## Hey, I'm Pedro!
  <div>
   <a href="https://github.com/pedrofernandoch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrofernandoch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,6 +14,13 @@
   <img align="right" alt="Pedro-Gif" src="https://cdn.discordapp.com/attachments/885665053087502359/885666241241559061/pedro-gif.gif">
 </div>
   
+  ## Sobre mim 👨‍💻
+ Graduando em Sistemas de Informação (ICMC-USP). Apaixonado por tecnologia e inovação. Trabalhei como voluntário desde o primeiro ano da graduação na empresa júnior do instituto em busca de me desenvolver como empreendedor e de ressignificar o conceito de trabalho, agregando maior valor e satisfação por fazê-lo.
+
+ Gosto de automatizar e facilitar os processos do dia a dia das empresas utilizando os recursos da ciência da computação. Aprecio boa culinária e prática de esportes. Procuro desenvolver cada vez mais as habilidades de liderança e planejamento estratégico a fim de garantir um bom desempenho pessoal e da minha equipe.
+
+ Atualmente, estou mirando em oportunidades que promovam novas habilidades e aprimorem meus conhecimentos já adquiridos no ramo da tecnologia da informação, com destaque para as áreas de desenvolvimento Web e Mobile.
+ 
   ##
  
 <div>
