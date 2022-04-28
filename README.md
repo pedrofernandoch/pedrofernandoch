@@ -15,11 +15,11 @@
 </div>
   
   ## Sobre mim 👨‍💻
- Graduando em Sistemas de Informação (ICMC-USP). Apaixonado por tecnologia e inovação. Trabalhei como voluntário desde o primeiro ano da graduação na empresa júnior do instituto em busca de me desenvolver como empreendedor e de ressignificar o conceito de trabalho, agregando maior valor e satisfação por fazê-lo.
+ Graduating in Information Systems (ICMC-USP) with emphasis on Advanced and High Performance Computing Systems. I am passionate about technology and innovation. I worked as a volunteer since the first year of graduation at the institute's junior company in search of boosting my knowledge as a developer and contributing to the entrepreneurial movement within the university.
 
- Gosto de automatizar e facilitar os processos do dia a dia das empresas utilizando os recursos da ciência da computação. Aprecio boa culinária e prática de esportes. Procuro desenvolver cada vez mais as habilidades de liderança e planejamento estratégico a fim de garantir um bom desempenho pessoal e da minha equipe.
+I like to automate and facilitate the day-to-day processes of companies using computer science resources. I appreciate good cuisine and sports. I seek to increasingly develop leadership skills and strategic planning in order to ensure good personal and team performance.
 
- Atualmente, estou mirando em oportunidades que promovam novas habilidades e aprimorem meus conhecimentos já adquiridos no ramo da tecnologia da informação, com destaque para as áreas de desenvolvimento Web e Mobile.
+Currently, I'm looking for opportunities that promote new skills and improve my knowledge already acquired in the field of information technology, especially in the areas of Web development, Mobile and Cloud Computing.
  
   ##
  
